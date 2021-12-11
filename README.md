@@ -21,3 +21,8 @@ ICPSR followed several steps to transition from monolithic applications on tradi
 * The microservices/libraries can be reused, speeding up the creation of new web applications.
 * Applications are more resilient, as the code and settings can be reloaded from Git in moments.
 * The state of the cluster is maintained through an automated reconciling of the stored configuration. 
+
+# Helpful Links
+* Kubernetes.io
+* OKD.io
+* (OpenGitOps.dev)[https://opengitops.dev]
