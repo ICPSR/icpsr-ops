@@ -1,4 +1,4 @@
-# icpsr-ops
+# ICPSR-Ops
 ICPSR's Cloud Native development and deployment with GitOps and Kubernetes.
 
 
@@ -23,6 +23,6 @@ ICPSR followed several steps to transition from monolithic applications on tradi
 * The state of the cluster is maintained through an automated reconciling of the stored configuration. 
 
 # Helpful Links
-* Kubernetes.io
-* OKD.io
-* (OpenGitOps.dev)[https://opengitops.dev]
+* [Kubernetes.io](https://kubernetes.io)
+* [OKD.io](https://okd.io)
+* [OpenGitOps.dev](https://opengitops.dev)
